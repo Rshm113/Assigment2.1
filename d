@@ -12,7 +12,7 @@ import java.util.*;
 	                     
 	                     if((k%2)==0)
 	                     {
-	                           System.out.println(n);
+	                           System.out.println(k);
 	                     }
 	              }
 	              System.out.println("Odd numbers are");
